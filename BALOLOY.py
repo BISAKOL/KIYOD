@@ -5,6 +5,6 @@ import importlib
 os.system("git pull")
 
 try:
-    importlib.import_module("BALOLOY").KAYATA() 
+    importlib.import_module("BALOLOYA").KAYATA() 
 except Exception as e: 
     exit(str(e))
